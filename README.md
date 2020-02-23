@@ -1,1 +1,1 @@
-# algorithm-exercises
+Algorithm exercise
